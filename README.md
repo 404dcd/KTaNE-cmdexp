@@ -27,6 +27,8 @@ Simon will loop until told to quit by `q`.
 
 You can type the first two letters into the main menu of the module as a shortening.
 
+Who's on first: transmitting information correctly is left to the humans. Type exactly what the button says, use `empty` for an actually blank display.
+
 ### TODO
 Add full maze functionality.
 
