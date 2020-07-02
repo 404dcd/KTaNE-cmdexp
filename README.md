@@ -1,5 +1,5 @@
 # KTaNE-cmdexp
-A virtual, text-based expert for Keep Talking and Nobody Explodes.
+A virtual, text-based expert for Keep Talking and Nobody Explodes in Python 3 (ofc)
 
 ## Warning! Use at your own discretion!
 Using this code in official events, documented speedruns or other competitive situations is, I presume, a very bad idea. This program is more suited to casual play with friends, and I advise you tell anyone you are playing with that you are using this program and gather their opinion first.
