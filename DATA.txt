@@ -1,0 +1,6 @@
+last = 6
+vowels = False
+bats = 2
+parallel = False
+car = True
+frk = False
