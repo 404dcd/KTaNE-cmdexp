@@ -10,7 +10,7 @@ print("GREEN\tg")
 cmaps = {"r": "red", "b": "blue", "w": "white", "y": "yellow", "B": "black", "g": "green"}
 
 try:
-    exec(open("DATA.txt", "r").read())
+    exec(open("data.txt", "r").read())
     lastSerialOdd = True if int(last) % 2 == 1 else False
     vowelSerial = bool(vowels)
     batteries = int(bats)
@@ -19,7 +19,7 @@ try:
     if bool(frk): indics.append("FRK")
     pp = bool(parallel)
 except:
-    print("\n>>> WARNING: DATA.txt NOT FORMATTED CORRECT!")
+    print("\n>>> WARNING: data.txt NOT FORMATTED CORRECT!")
 print("\n")
 
 def wires():
