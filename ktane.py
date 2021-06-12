@@ -10,7 +10,7 @@ print("GREEN\tg")
 cmaps = {"r": "red", "b": "blue", "w": "white", "y": "yellow", "B": "black", "g": "green"}
 
 try:
-    exec(open("data.txt", "r").read())
+    (open("data.txt", "r").read())
     lastSerialOdd = True if int(last) % 2 == 1 else False
     vowelSerial = bool(vowels)
     batteries = int(bats)
